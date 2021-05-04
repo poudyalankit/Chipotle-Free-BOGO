@@ -1,5 +1,5 @@
-# Chipotle-Free-Burrito
-Free Chipotle Burritos
+# Chipotle-Free-BOGO
+Free Chipotle BOGO Coupons
 
 
 **Setup**
